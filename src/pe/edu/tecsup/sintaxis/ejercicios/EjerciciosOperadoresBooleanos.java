@@ -7,7 +7,11 @@ public class EjerciciosOperadoresBooleanos {
 
 		// Declarar lo siguiente
 		//  1.-  Si hoy es viernes y es feriado no trabajamos
-		
+		boolean esViernes = true;
+        boolean esFeriado = true;
+        boolean noLaboral = esViernes && esFeriado;
+        System.out.println("No Trabajamos :" + noLaboral);
+
 		
 		//  2.- Si llevo el curso de Java y tengo una IDE instalado
 		//      podre realizar los laboratorios de clases
