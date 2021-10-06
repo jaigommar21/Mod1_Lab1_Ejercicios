@@ -25,10 +25,15 @@ public class EjerciciosOperadorCondicional {
 		System.out.println(c);
 		
 		
-		// 2.- Asignar a la variable c el valor de acuerdo a las siguientes
+		// 2.- Asignar a la variable c un valor de acuerdo a las siguientes
 		//     condiciones
 		//    - asignar el valor de la variable a , cuando esta sea menor a 25
-		//    - si la variable a es mayor o igual a 25 asignar siempre 25  
+		//    - si la variable "a" es mayor o igual a 25 asignar siempre 25  
+		//     caso1 : a = 15    , caso2 : a = 50
+		
+		a = 26;
+		c = (a<25) ? a : 25;
+		System.out.println(c);
 		
 
 	}
