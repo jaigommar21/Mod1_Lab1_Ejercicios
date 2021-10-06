@@ -1,6 +1,6 @@
 package pe.edu.tecsup.sintaxis.ejercicios;
 
-public class EjerciciosBooleanos {
+public class EjerciciosDeclararVariables {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
