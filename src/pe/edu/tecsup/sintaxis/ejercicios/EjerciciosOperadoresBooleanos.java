@@ -20,6 +20,17 @@ public class EjerciciosOperadoresBooleanos {
 		//  2.- Si llevo el curso de Java y tengo una IDE instalado
 		//      podre realizar los laboratorios de clases
 		
+        boolean cursoJava = true;
+        boolean ideInstalado = false;
+        boolean resultado2 = cursoJava && ideInstalado;
+        System.out.println("Podre realizar los Laboratorios: " + resultado2);
+        
+        boolean llevoCursoJava = true;
+		boolean tengoIde = true;
+		boolean desarrolloLaboratorios=llevoCursoJava && tengoIde;
+		System.out.print("Desarrollo los Laboratorios:"+desarrolloLaboratorios);	
+		
+		
         
 		
 		//  3.- Si estudie en un instituto computacion o en una universidad
