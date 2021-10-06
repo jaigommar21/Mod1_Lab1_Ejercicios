@@ -30,11 +30,16 @@ public class EjerciciosOperadoresBooleanos {
 		boolean desarrolloLaboratorios=llevoCursoJava && tengoIde;
 		System.out.print("Desarrollo los Laboratorios:"+desarrolloLaboratorios);	
 		
+//		boolean cursoJava = true;
+//		boolean tengoIde = true;
+//		boolean realizarLaboratorio = cursoJava && tengoIde;
+//		System.out.println("Puedo realizar los laboratorios" + realizarLaboratorio);
 		
-        
 		
 		//  3.- Si estudie en un instituto computacion o en una universidad
-		//      ingenieri informatica podre trabajar en un departamento de TI   
+		//      ingenieria informatica podre trabajar en un departamento de TI   
+		
+		
 		
 	}
 
