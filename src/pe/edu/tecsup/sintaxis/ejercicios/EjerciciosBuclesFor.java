@@ -54,6 +54,14 @@ public class EjerciciosBuclesFor {
 			System.out.println("Print: " + i);
 		}
 
+		
+        int suma3=0;
+        for(int i=1; i<14; i+=2){
+            System.out.print(i+"\t");
+            suma3 = suma3 +i;
+        }
+        System.out.println("");
+        System.out.println("La suma total es: "+suma3);
 	}
 
 }
