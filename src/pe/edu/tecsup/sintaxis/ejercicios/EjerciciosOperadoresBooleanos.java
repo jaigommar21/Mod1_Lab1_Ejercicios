@@ -39,7 +39,10 @@ public class EjerciciosOperadoresBooleanos {
 		//  3.- Si estudie en un instituto computacion o en una universidad
 		//      ingenieria informatica podre trabajar en un departamento de TI   
 		
-		
+		boolean estudieComputacion = false;
+		boolean estudieIngenieriaI = true;
+		boolean puedesTrabajarTI = estudieComputacion || estudieIngenieriaI;
+		System.out.println("Puedo trabajar en un departamento de TI: " + puedesTrabajarTI);
 		
 	}
 
