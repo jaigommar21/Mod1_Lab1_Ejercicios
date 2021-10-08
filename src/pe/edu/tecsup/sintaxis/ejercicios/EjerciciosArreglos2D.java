@@ -13,7 +13,19 @@ public class EjerciciosArreglos2D {
 				{16, 18, 14, 20}   //  Notas de Alumno 3
 			};
 
+		// Obtenemos el valor de la 1ra fila y 2da columna
 		System.out.println(notasCursoPorAlumno[0][1]);
+		
+		// Ejercicios
+		
+		// obtener el valor
+		//   - 15
+		
+		//   - 20
+		
+		//   - 12
+		
+		//   - la segunda fila
 		
 	}
 
