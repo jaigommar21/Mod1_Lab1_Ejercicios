@@ -20,13 +20,26 @@ public class EjerciciosArreglos2D {
 		
 		// obtener el valor
 		//   - 15
-		
+		System.out.println(notasCursoPorAlumno[1][3]);
+				
 		//   - 20
+		System.out.println(notasCursoPorAlumno[2][3]);
 		
 		//   - 12
+		System.out.println(notasCursoPorAlumno[1][2]);
 		
+	
 		//   - la segunda fila
+		//System.out.println();
+		int segundaFila[] = notasCursoPorAlumno[1];
 		
+		System.out.println("Imprime la segunda fila : ");
+		for (int i = 0; i < segundaFila.length; i++) {
+			System.out.println(segundaFila[i]);
+
+		}
+	
+	
 	}
 
 }
