@@ -20,7 +20,7 @@ public class Estudiante {
 	
 	
 	// Obtener el valor del atributo edad
-	public int obtenerEdad () {
+	public int getEdad () {    // obtener --> get
 		
 		// para devolver algo en un metodo se emplea 
 		// una palabra reservada que es   return

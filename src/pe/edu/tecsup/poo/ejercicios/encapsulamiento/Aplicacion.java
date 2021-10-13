@@ -8,12 +8,12 @@ public class Aplicacion {
 		Estudiante estudiante1 = new Estudiante("Roberto", "Garcia", 20);
 		
 		System.out.println("Mi nombre es: " + estudiante1.nombre + " " + estudiante1.apellidoPaterno );
-		System.out.println("Mi edad es: " + estudiante1.obtenerEdad());
+		System.out.println("Mi edad es: " + estudiante1.getEdad());
 		
 		Estudiante estudiante2 = new Estudiante("Marisol", "Quispe", 23);
 		
 		System.out.println("Mi nombre es: " + estudiante2.nombre + " " + estudiante2.apellidoPaterno );
-		System.out.println("Mi edad es: " + estudiante2.obtenerEdad());
+		System.out.println("Mi edad es: " + estudiante2.getEdad());
 				
 
 	}
