@@ -2,8 +2,8 @@ package pe.edu.tecsup.poo.ejercicios.encapsulamiento;
 
 public class Estudiante {
 
-	public String apellidoPaterno;
-	public String nombre;
+	private String apellidoPaterno;
+	private String nombre;
 	private int edad;
 
 	public Estudiante(String nombre, String apellidoPaterno, int edad) {
@@ -27,7 +27,16 @@ public class Estudiante {
 		
 		return this.edad;
 	}
+
+	public String getApellidoPaterno() {
+		return apellidoPaterno;
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
 	
-	
+	 
+
 	
 }
