@@ -16,7 +16,7 @@ public class OperacionesMatematicas {
 		// 2.- Crear un metodo que mulitplique dos numeros enteros
 		//     y retorne el valor, imprimir el resulado obtenido
 		
-		int multi = multiplicaNros(num1,num2);
+		int multi = retornaMultiplicacion(num1,num2);
 		System.out.println("La multiplicacion es " + multi);
  	}
 	
@@ -24,7 +24,7 @@ public class OperacionesMatematicas {
 		int resta = a - b ;
 		System.out.println("La Resta es: " + resta);
  	}
-	public static int multiplicaNros(int a, int b) {
+	public static int retornaMultiplicacion(int a, int b) {
 		int multi = a * b ;
 		return multi ;
 	}	
