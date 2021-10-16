@@ -22,7 +22,10 @@ public class Aplicacion {
 		
 		Estudiante estudiante3 = new Estudiante();
 		estudiante3.setNombre("Eduardo");
-		
+		estudiante3.setApellidoPaterno("Garcia");
+		estudiante3.setEdad(18);
+		estudiante3.setSexo("M");
+				
 		System.out.println("Mi nombre es: " + estudiante3.getNombre());
 		System.out.println("Mi apellido es: " +estudiante3.getApellidoPaterno() );
 		System.out.println("Mi edad es: " + estudiante3.getEdad());
