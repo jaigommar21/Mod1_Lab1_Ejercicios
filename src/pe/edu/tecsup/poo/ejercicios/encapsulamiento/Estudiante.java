@@ -30,13 +30,17 @@ public class Estudiante {
 	}
 
 	public String getApellidoPaterno() {
-		return apellidoPaterno;
+		return this.apellidoPaterno;
 	}
 
 	public String getNombre() {
-		return nombre;
+		return this.nombre;
 	}
-	
+
+	public String getSexo() {
+		return this.sexo;
+	}
+
 	 
 
 	
