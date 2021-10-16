@@ -57,6 +57,10 @@ public class Estudiante {
 		return this.sexo;
 	}
 
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
 	 
 
 	

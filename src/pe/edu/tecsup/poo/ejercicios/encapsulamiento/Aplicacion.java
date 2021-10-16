@@ -21,9 +21,12 @@ public class Aplicacion {
 
 		
 		Estudiante estudiante3 = new Estudiante();
+		estudiante3.setNombre("Eduardo");
 		
 		System.out.println("Mi nombre es: " + estudiante3.getNombre());
-
+		System.out.println("Mi apellido es: " +estudiante3.getApellidoPaterno() );
+		System.out.println("Mi edad es: " + estudiante3.getEdad());
+		System.out.println("Mi sexo es: " + estudiante3.getSexo());
 
 	}
 
