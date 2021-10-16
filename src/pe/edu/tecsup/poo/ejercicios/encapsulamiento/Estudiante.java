@@ -7,6 +7,10 @@ public class Estudiante {
 	private int edad;
 	private String sexo;
 
+	public Estudiante() {
+		
+	}
+	
 	public Estudiante(String nombre, String apellidoPaterno, int edad) {
 		this.nombre = nombre;
 		this.apellidoPaterno = apellidoPaterno;

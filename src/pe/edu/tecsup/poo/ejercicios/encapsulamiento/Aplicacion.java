@@ -19,6 +19,11 @@ public class Aplicacion {
 		System.out.println("Mi edad es: " + estudiante2.getEdad());
 		System.out.println("Mi sexo es: " + estudiante2.getSexo());
 
+		
+		Estudiante estudiante3 = new Estudiante();
+		
+		System.out.println("Mi nombre es: " + estudiante3.getNombre());
+
 
 	}
 
