@@ -9,7 +9,7 @@ public class Empresa {
 	
 	public Empresa(int nroCargos, Pais pais, String nombre, int codigo) {
 		super();
-		this.cargos = new Cargo[nroCargos]; // se define 2 cargos
+		this.cargos = new Cargo[nroCargos]; // se define los numeros de cargos
 		this.pais = pais;
 		this.nombre = nombre;
 		this.codigo = codigo;
