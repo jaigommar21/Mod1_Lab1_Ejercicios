@@ -4,24 +4,24 @@ public class Cargo {
 
 	String nombreCargo;
 	float sueldo;
-	String tipo;
+	String tipoCargo;
 	Empleado empleado;
 	Cargo subordinado;
 	
 	// Empleado con subordinados
-	public Cargo(String nombreCargo, float sueldo, String tipo, Empleado empleado, Cargo subordinado) {
+	public Cargo(String nombreCargo, float sueldo, String tipoCargo, Empleado empleado, Cargo subordinado) {
 		this.nombreCargo = nombreCargo;
 		this.sueldo = sueldo;
-		this.tipo = tipo;
+		this.tipoCargo = tipoCargo;
 		this.empleado = empleado;
 		this.subordinado = subordinado;
 	}
 	
 	// Empleado sin subordinados
-	public Cargo(String nombreCargo, float sueldo, String tipo, Empleado empleado) {
+	public Cargo(String nombreCargo, float sueldo, String tipoCargo, Empleado empleado) {
 		this.nombreCargo = nombreCargo;
 		this.sueldo = sueldo;
-		this.tipo = tipo;
+		this.tipoCargo = tipoCargo;
 		this.empleado = empleado;
 		this.subordinado = null;
 	}
