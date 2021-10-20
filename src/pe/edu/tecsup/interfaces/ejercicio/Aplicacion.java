@@ -23,8 +23,8 @@ public class Aplicacion {
 		
 		System.out.println("------------");
 		ejecutar(new FaseProyectoWeb());
-		//System.out.println("------------");
-		//ejecutar(new FaseProyectoMovil());
+		System.out.println("------------");
+		ejecutar(new FaseProyectoMovil());
 		
 		//*/
 	}
