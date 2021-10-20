@@ -27,6 +27,11 @@ public class Aplicacion {
 		ejecutar(new FaseProyectoMovil());
 		System.out.println("------------");
 		ejecutar(new FaseProyectoRedes());		
+		System.out.println("------------");
+		ejecutar(new FaseProyectoMovilAndroid());		
+		
+		
+		
 		//*/
 	}
 
