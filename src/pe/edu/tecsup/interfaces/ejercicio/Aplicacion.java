@@ -25,7 +25,8 @@ public class Aplicacion {
 		ejecutar(new FaseProyectoWeb());
 		System.out.println("------------");
 		ejecutar(new FaseProyectoMovil());
-		
+		System.out.println("------------");
+		ejecutar(new FaseProyectoRedes());		
 		//*/
 	}
 
