@@ -27,8 +27,9 @@ Crear la clase Ejercicio03_OperadorCondicional, donde: Si una variable x , es me
 
 
  ### Ejercicio 4: 
+ 
+Crear la clase Ejercicio04_Condicional, donde debe calcular si paga o no retenciones de 5ta categoria un trabajador en planilla, las condiciones son :
 
- Calcular si paga o no retenciones de 5ta categoria un trabajador en planilla
  - Dado un sueldo mensual de 4000 soles y tienen 14 pagas, calcular si paga o no impuesto   
  - Considerar que la UIT : 4400 soles  
  - Anualmente si ganas mas de 7 UIT pagas impuestos, si ganas menos de 7 UIT no pagas impuestos
