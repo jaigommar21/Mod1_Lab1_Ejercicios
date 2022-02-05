@@ -20,3 +20,12 @@ Crear la clase Ejercicio02_ConversionYConstantes, donde:
  - Definir como constante el IGV y el nombre del pais
  
  Imprimir la informacion por consola.
+ 
+ 
+ ### Ejercicio 3: 
+Si una variable x , es menor que 25, el valor a asignar es 25, caso contrario asignar a la variable x su propio valor
+
+
+
+
+		 
