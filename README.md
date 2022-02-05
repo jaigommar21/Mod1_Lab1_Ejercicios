@@ -23,7 +23,7 @@ Crear la clase Ejercicio02_ConversionYConstantes, donde:
  
  
  ### Ejercicio 3: 
-Si una variable x , es menor que 25, el valor a asignar es 25, caso contrario asignar a la variable x su propio valor
+Crear la clase Ejercicio03_OperadorCondicional, donde: Si una variable x , es menor que 25, el valor a asignar es 25, caso contrario asignar a la variable x su propio valor
 
 
 
