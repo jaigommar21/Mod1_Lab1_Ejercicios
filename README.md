@@ -31,7 +31,7 @@ Crear la clase Ejercicio03_OperadorCondicional, donde: Si una variable x , es me
 Crear la clase Ejercicio04_Condicional, donde debe calcular si un trabajador de 5ta categoria (en planilla) paga o no paga impuestos, las condiciones son :
 
  - Dado un sueldo mensual de 4000 soles y tienen 14 pagas   
- - Considerar que la UIT : 4400 soles  
+ - Considerar que la UIT : 4600 soles  
  - Anualmente si ganas mas de 7 UIT pagas impuestos, si ganas menos de 7 UIT no pagas impuestos
 
 
