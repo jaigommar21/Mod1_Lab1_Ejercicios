@@ -26,6 +26,13 @@ Crear la clase Ejercicio02_ConversionYConstantes, donde:
 Crear la clase Ejercicio03_OperadorCondicional, donde: Si una variable x , es menor que 25, el valor a asignar es 25, caso contrario asignar a la variable x su propio valor
 
 
+ ### Ejercicio 4: 
+
+ Calcular si paga o no retenciones de 5ta categoria un trabajador en planilla
+ - Dado un sueldo mensual de 4000 soles y tienen 14 pagas, calcular si paga o no impuesto   
+ - Considerar que la UIT : 4400 soles  
+ - Anualmente si ganas mas de 7 UIT pagas impuestos, si ganas menos de 7 UIT no pagas impuestos
+
 
 
 		 
