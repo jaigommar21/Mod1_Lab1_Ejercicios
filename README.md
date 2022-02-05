@@ -7,5 +7,6 @@ Crear la clase Ejercicio01_DefinicionVariables, donde definiras las variables
  - nombre_mes
  - dia
  - nombre_dia
+ - es_dia_laboral
  
  Imprimir la informacion por consola.
