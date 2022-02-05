@@ -16,6 +16,6 @@ Crear la clase Ejercicio01_DefinicionVariables, donde definiras las variables
 Crear la clase Ejercicio02_ConversionYConstantes, donde:
 
  - Definir la variable byte fecha, con el valor del dia de hoy y asignar el valor a otra variable de tipo int
- - Definir como constante las siguientes valores: IGV y PAIS
+ - Definir como constante el IGV y el nombre del pais
  
  Imprimir la informacion por consola.
