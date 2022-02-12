@@ -50,7 +50,7 @@ Crear la clase Ejercicio06_Array donde
 
 - Crear un arreglo de enteros de tamanho 10
 - Inicializar con el valor -1 a todos los elementos del arreglo
-- Asignar los valores 3,6,8 ,....... a todos los elementos del arreglo
+- Asignar los valores 3,6,9 ,....... a todos los elementos del arreglo
 - Sumar todos los valores del arreglo
 
 
