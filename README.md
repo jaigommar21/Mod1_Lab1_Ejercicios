@@ -64,14 +64,14 @@ Los equipos de deportes tienen  la siguiente información , nombre del país, nomb
 En la clase del ejercicio 7 , crear un constructor para
 todos los atributos y crear los siguiente objetos
 
-Deporte Voley 
-cantidad de particiantes : 12
-nombre del equipo : FPV
+- Deporte Voley 
+- cantidad de particiantes : 12
+- nombre del equipo : FPV
 
 
-Deporte Futbol 
-cantidad de particiantes : 26
-nombre del equipo : FPF
+- Deporte Futbol 
+- cantidad de particiantes : 26
+- nombre del equipo : FPF
 
 
 
