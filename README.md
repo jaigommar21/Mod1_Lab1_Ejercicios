@@ -35,7 +35,7 @@ Crear la clase Ejercicio04_Condicional, donde debe calcular si un trabajador de 
  - Anualmente si ganas mas de 7 UIT pagas impuestos, si ganas menos de 7 UIT no pagas impuestos
 
 
- ### Ejercicio 5: 
+### Ejercicio 5: 
 
 Crear la clase Ejercicio05_For un contador con for de modo que
 
@@ -44,7 +44,7 @@ Crear la clase Ejercicio05_For un contador con for de modo que
 - Si el numero es multplo de 3 no debe imprimirlo
 - Para los otros casos debe imprimir el numero
 
- ### Ejercicio 6: 
+### Ejercicio 6: 
 
 Crear la clase Ejercicio06_Array donde
 
@@ -54,6 +54,6 @@ Crear la clase Ejercicio06_Array donde
 - Sumar todos los valores del arreglo
 
 
- ### Ejercicio 7: 
+### Ejercicio 7: 
 
 Los equipos de deportes tienen  la siguiente información , nombre del país, nombre del deporte, cantidad de integrantes y nombre del equipo. Representarlo en una clase adecuada. Usar la clase anterior e instanciarlo desde una aplicación e inicializar la información del equipo
