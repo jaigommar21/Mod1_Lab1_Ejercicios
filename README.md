@@ -54,4 +54,6 @@ Crear la clase Ejercicio06_Array donde
 - Sumar todos los valores del arreglo
 
 
-		 
+ ### Ejercicio 7: 
+
+Los equipos de deportes tienen  la siguiente información , nombre del país, nombre del deporte, cantidad de integrantes y nombre del equipo. Representarlo en una clase adecuada. Usar la clase anterior e instanciarlo desde una aplicación e inicializar la información del equipo
