@@ -35,5 +35,15 @@ Crear la clase Ejercicio04_Condicional, donde debe calcular si un trabajador de 
  - Anualmente si ganas mas de 7 UIT pagas impuestos, si ganas menos de 7 UIT no pagas impuestos
 
 
+ ### Ejercicio 5: 
+
+Crear la clase Ejercicio05_For un contador con for de modo que
+
+- El contador debe decrementar de 20 a 5 de 2 en 2
+- Si el numero es multiplo de 4 debe imprimir , soy multiplo de cuatro
+- Si el numero es multplo de 3 no debe imprimirlo
+- Para los otros casos debe imprimir el numero
+
+
 
 		 
