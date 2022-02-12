@@ -65,13 +65,13 @@ En la clase del ejercicio 7 , crear un constructor para
 todos los atributos y crear los siguiente objetos
 
 - Deporte Voley 
-- cantidad de particiantes : 12
-- nombre del equipo : FPV
+-- cantidad de particiantes : 12
+-- nombre del equipo : FPV
 
 
 - Deporte Futbol 
-- cantidad de particiantes : 26
-- nombre del equipo : FPF
+-- cantidad de particiantes : 26
+-- nombre del equipo : FPF
 
 
 
