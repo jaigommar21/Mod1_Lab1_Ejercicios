@@ -8,6 +8,13 @@ public class Aplicacion {
 		Equipo equipoFutbol = new Equipo();
 		Equipo equipoAjedrez = new Equipo();
 		
+//		Equipo equipos[] = {new Equipo(), new Equipo()};
+		
+//		Equipo equipos[] = new Equipo[10];
+//		equipos[0] = new Equipo();
+//		equipos[1] = new Equipo();
+		
+			
 		// Inicializo objetos
 		equipoFutbol.pais = "Peru";
 		equipoFutbol.deporte = "Futboll";
