@@ -103,5 +103,7 @@ Crear los métodos faltantes
 	}
 
 
+### Ejercicio 10:
 
+En el ejericio 09 , usar métodos no estaticos.
 
