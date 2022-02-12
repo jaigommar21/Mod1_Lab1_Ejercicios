@@ -76,7 +76,7 @@ todos los atributos y crear los siguiente objetos
 
 ### Ejercicio 9:
 
-Crear los metodos faltantes
+Crear los métodos faltantes
 
 
 	public class OperacionesMatematicas {
