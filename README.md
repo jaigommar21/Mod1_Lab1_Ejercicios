@@ -44,6 +44,14 @@ Crear la clase Ejercicio05_For un contador con for de modo que
 - Si el numero es multplo de 3 no debe imprimirlo
 - Para los otros casos debe imprimir el numero
 
+ ### Ejercicio 6: 
+
+Crear la clase Ejercicio06_Array donde
+
+- Crear un arreglo de enteros de tamanho 10
+- Inicializar con el valor -1
+- Asignar los valores 3,6,8 ,.......
+- Sumar todos los valores del arreglo
 
 
 		 
