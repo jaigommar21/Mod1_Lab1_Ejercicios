@@ -57,3 +57,26 @@ Crear la clase Ejercicio06_Array donde
 ### Ejercicio 7: 
 
 Los equipos de deportes tienen  la siguiente información , nombre del país, nombre del deporte, cantidad de integrantes y nombre del equipo. Representarlo en una clase adecuada. Usar la clase anterior e instanciarlo desde una aplicación e inicializar la información del equipo
+
+
+### Ejercicio 8: 
+
+En la clase del ejercicio 7 , crear un constructor para
+todos los atributos y crear los siguiente objetos
+
+Deporte Voley 
+cantidad de particiantes : 12
+nombre del equipo : FPV
+
+
+Deporte Futbol 
+cantidad de particiantes : 26
+nombre del equipo : FPF
+
+
+
+
+
+
+
+
