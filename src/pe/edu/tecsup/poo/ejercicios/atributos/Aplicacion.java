@@ -4,11 +4,23 @@ public class Aplicacion {
 
 	public static void main(String[] args) {
 
-		Equipo equipo = new Equipo();
+		// Defino objetos
+		Equipo equipoFutbol = new Equipo();
+		Equipo equipoAjedrez = new Equipo();
 		
-		equipo.pais = "Peru";
-		equipo.deporte = "Futboll";
-		equipo.cantIntegrantes = 24;
-		equipo.nombre = "Los tigres";
+		// Inicializo objetos
+		equipoFutbol.pais = "Peru";
+		equipoFutbol.deporte = "Futboll";
+		equipoFutbol.cantIntegrantes = 24;
+		equipoFutbol.nombre = "Los tigres";
+		
+		equipoAjedrez.pais = "Peru";
+		equipoAjedrez.deporte = "Ajedrez";
+		equipoAjedrez.cantIntegrantes = 6;
+		equipoAjedrez.nombre = "Casablanca";
+		
+		
+		
+		
 	}
 }
