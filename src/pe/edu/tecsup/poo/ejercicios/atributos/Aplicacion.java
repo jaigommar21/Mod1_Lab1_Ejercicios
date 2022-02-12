@@ -26,8 +26,5 @@ public class Aplicacion {
 		equipoAjedrez.cantIntegrantes = 6;
 		equipoAjedrez.nombre = "Casablanca";
 		
-		
-		
-		
 	}
 }
