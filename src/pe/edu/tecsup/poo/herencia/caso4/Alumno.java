@@ -12,6 +12,11 @@ public class Alumno {
 		this.edad = edad;
 	}
 	
-	
+	public void imprimirDatos() {
+		
+		System.out.println("Nombre -> " +  this.nombre);
+		System.out.println("Edad -> " +  this.edad);
+		
+	}
 	
 }

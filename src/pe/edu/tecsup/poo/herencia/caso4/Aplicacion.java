@@ -12,18 +12,19 @@ public class Aplicacion {
 
 		alumno.setNombre("Jose");
 		alumno.setEdad(26);
-		
+		alumno.imprimirDatos();
 		
 		AlumnoInterno alumnoInterno = new AlumnoInterno();		
 		alumnoInterno.setNombre("Maria");
 		alumnoInterno.setEdad(22);
-		
+		alumnoInterno.imprimirDatos();
 		
 		// Crear un instancia del alumno externo
 		// cuyo nombre es Joseph y tiene 23 anhos.
 		AlumnoExterno alumnoExterno = new AlumnoExterno();
         alumnoExterno.setNombre("Joseph");
         alumnoExterno.setEdad(23);
+        alumnoExterno.imprimirDatos();
 		
 	}
 
