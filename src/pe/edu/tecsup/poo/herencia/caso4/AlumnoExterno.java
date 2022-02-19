@@ -8,7 +8,10 @@ public class AlumnoExterno extends Alumno {
 		this.codTemporal = codTemporal;
 	}
 	
-	public void imprimirDatos2() {
+	@Override // Sobrecarga en POO
+	public void imprimirDatos() {
+
+		//super.imprimirDatos();
 		
 		System.out.println("Nombre -> " +  this.nombre);
 		System.out.println("Edad -> " +  this.edad);
@@ -16,4 +19,15 @@ public class AlumnoExterno extends Alumno {
 		System.out.println("codTemporal -> " +  this.codTemporal);
 		
 	}
+	
+	/*
+	public void imprimirDatos() {
+		
+		System.out.println("Nombre -> " +  this.nombre);
+		System.out.println("Edad -> " +  this.edad);
+		System.out.println("Dni -> " +  this.dni);
+		System.out.println("codTemporal -> " +  this.codTemporal);
+		
+	}
+	//*/
 }

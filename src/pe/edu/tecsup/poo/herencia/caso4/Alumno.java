@@ -21,6 +21,7 @@ public class Alumno {
 		
 		System.out.println("Nombre -> " +  this.nombre);
 		System.out.println("Edad -> " +  this.edad);
+		System.out.println("Dni -> " +  this.dni);
 		
 	}
 	

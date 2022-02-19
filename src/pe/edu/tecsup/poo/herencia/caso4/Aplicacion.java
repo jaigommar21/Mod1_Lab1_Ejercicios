@@ -4,6 +4,8 @@ public class Aplicacion {
 
 	public static void main(String[] args) {
 		
+		System.out.println("--------- Alumno  -----------");
+
 		// instanciar la clase
 		Alumno alumno = new Alumno();
 		
@@ -13,13 +15,16 @@ public class Aplicacion {
 		alumno.setNombre("Jose");
 		alumno.setEdad(26);
 		//alumno.edad=10;
-		//alumno.imprimirDatos();
+		alumno.imprimirDatos();
 		
+		System.out.println("-------Alumno Interno --------");
 		AlumnoInterno alumnoInterno = new AlumnoInterno();		
 		alumnoInterno.setNombre("Maria");
 		alumnoInterno.setEdad(22);
-		//alumnoInterno.imprimirDatos();
+		alumnoInterno.imprimirDatos();
 		
+		
+		System.out.println("-------Alumno Externo --------");
 		// Crear un instancia del alumno externo
 		// cuyo nombre es Joseph y tiene 23 anhos.
 		AlumnoExterno alumnoExterno = new AlumnoExterno();
@@ -27,7 +32,7 @@ public class Aplicacion {
         alumnoExterno.setEdad(23);
         alumnoExterno.setDni("12345678X");
         alumnoExterno.setCodTemporal("ABCD");
-        alumnoExterno.imprimirDatos2();
+        alumnoExterno.imprimirDatos();
 		
         
         // Ejercicio : Crear el metodo validar, de modo que 
