@@ -21,7 +21,9 @@ public class Aplicacion {
 		
 		// Crear un instancia del alumno externo
 		// cuyo nombre es Joseph y tiene 23 anhos.
-		
+		AlumnoExterno alumnoExterno = new AlumnoExterno();
+        alumnoExterno.setNombre("Joseph");
+        alumnoExterno.setEdad(23);
 		
 	}
 
