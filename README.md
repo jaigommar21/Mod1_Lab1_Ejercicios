@@ -107,3 +107,17 @@ Crear los métodos faltantes
 
 En el ejericio 09 , usar métodos no estaticos.
 
+
+### Ejercicio 11:
+
+Crear la clase Proceso, donde se definira 3 metodos ejecutar con
+las siguientes condiciones
+
+Si se le pasa como argumento una cadena, debe imprimir "El proceso se esta deteniendo"
+Si se le pasa como argumento un numero debe imprimir , "Se esta configurando el proceos"
+Si no se le pasa ningun argumento, debera imprimir "El proceso se va a ejecutar"
+ 
+Llamar a la clase Proceso , desde la clase Aplicacion
+
+
+
