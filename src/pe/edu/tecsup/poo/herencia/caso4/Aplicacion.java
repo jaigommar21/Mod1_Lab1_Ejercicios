@@ -16,23 +16,24 @@ public class Aplicacion {
 		alumno.setEdad(26);
 		//alumno.edad=10;
 		alumno.imprimirDatos();
-		
+		alumno.validar();
+
 		System.out.println("-------Alumno Interno --------");
 		AlumnoInterno alumnoInterno = new AlumnoInterno();		
 		alumnoInterno.setNombre("Maria");
 		alumnoInterno.setEdad(22);
 		alumnoInterno.imprimirDatos();
 		
-		
 		System.out.println("-------Alumno Externo --------");
 		// Crear un instancia del alumno externo
 		// cuyo nombre es Joseph y tiene 23 anhos.
 		AlumnoExterno alumnoExterno = new AlumnoExterno();
         alumnoExterno.setNombre("Joseph");
-        alumnoExterno.setEdad(23);
+        alumnoExterno.setEdad(17);
         alumnoExterno.setDni("12345678X");
         alumnoExterno.setCodTemporal("ABCD");
         alumnoExterno.imprimirDatos();
+        alumnoExterno.validar();
 		
         
         // Ejercicio : Crear el metodo validar, de modo que 

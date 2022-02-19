@@ -30,4 +30,15 @@ public class AlumnoExterno extends Alumno {
 		
 	}
 	//*/
+	
+	@Override  // sobreescribe el metodo del super
+	public void validar() {
+		
+		if (this.codTemporal.equals("C24")) {   // comparar cadenas
+			super.validar();  // accede a la implementacion de la clase super
+		} else {
+			System.out.println("El alumno no puede ser estudiante externo");
+		}
+		
+	}
 }

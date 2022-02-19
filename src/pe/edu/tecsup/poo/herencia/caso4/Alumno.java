@@ -24,5 +24,13 @@ public class Alumno {
 		System.out.println("Dni -> " +  this.dni);
 		
 	}
+	public void validar() {
+		// TODO Auto-generated method stub
+		if(this.edad <= 18) {
+			System.out.println("Es menor de edad");
+		} else  {
+			System.out.println("Es mayor de edad");
+		}
+	}
 	
 }
