@@ -42,6 +42,22 @@ public class Aplicacion {
         //             caso contrario indique que es un estudiante mayor de edad
         
         
+        // Nota
+		System.out.println("-------Referencia de objetos en Herencia --------");
+
+        Alumno alumnoGeneral = new Alumno();
+        alumnoGeneral = new AlumnoExterno();
+        alumnoGeneral = new AlumnoInterno();
+        
+        Alumno alumnoCamaleon = new AlumnoInterno();
+        
+        if (alumnoCamaleon instanceof AlumnoInterno) {
+        		
+        	AlumnoInterno alumnoInternoEscondido 
+        			= (AlumnoInterno) alumnoCamaleon ;  
+        	System.out.println("Eres un alumno interno");
+        }
+        
 	}
 
 }
