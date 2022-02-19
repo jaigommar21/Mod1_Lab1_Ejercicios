@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios.encapsulamiento;
+package pe.edu.tecsup.poo.ejercicios._04_encapsulamiento;
 
 public class Aplicacion {
 

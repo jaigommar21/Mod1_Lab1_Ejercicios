@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios.metodos;
+package pe.edu.tecsup.poo.ejercicios_03_.metodos;
 
 public class OperacionesMatematicas {
 
