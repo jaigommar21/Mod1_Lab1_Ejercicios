@@ -2,10 +2,14 @@ package pe.edu.tecsup.poo.herencia.caso4;
 
 public class Alumno {
 
-	private String nombre;
-	//private int edad;
+	protected String nombre;
 	protected int edad;
+	protected String dni;
+
 	
+	public void setDni(String dni) {
+		this.dni = dni;
+	}
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
