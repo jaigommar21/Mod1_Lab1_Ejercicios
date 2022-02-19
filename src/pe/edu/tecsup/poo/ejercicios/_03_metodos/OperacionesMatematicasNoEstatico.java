@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios_03_.metodos;
+package pe.edu.tecsup.poo.ejercicios._03_metodos;
 
 public class OperacionesMatematicasNoEstatico {
 
