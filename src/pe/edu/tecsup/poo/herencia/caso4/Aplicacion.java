@@ -14,6 +14,11 @@ public class Aplicacion {
 		alumno.setEdad(26);
 		
 		
+		AlumnoInterno alumnoInterno = new AlumnoInterno();		
+		alumnoInterno.setNombre("Maria");
+		alumnoInterno.setEdad(22);
+		
+		
 		
 	}
 
