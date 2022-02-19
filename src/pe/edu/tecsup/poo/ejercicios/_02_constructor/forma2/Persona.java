@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios.constructor.forma1;
+package pe.edu.tecsup.poo.ejercicios._02_constructor.forma2;
 
 public class Persona {
     // atributos
@@ -9,10 +9,11 @@ public class Persona {
     /**
      * Es lo primero que se ejecuta al instanciar una clase
      */
-    public Persona() {    	
-    	this.nombre="Roberto";
-    	this.diaNacimiento=21;
-    	this.dni="9999999";
+    //public Persona(String nombre /* Aca se definen los parametros o argumentos */ ) {    	
+    public Persona(String pNombre, int pDiaNacimiento, String pDni  ) {    	
+    	this.nombre=pNombre;
+    	this.diaNacimiento=pDiaNacimiento;
+    	this.dni=pDni;
     	System.out.println("----------------------");
     	System.out.println("Instanciando un objeto");
     }
@@ -23,11 +24,11 @@ public class Persona {
      * @param edad
      * @param dni
      */
-    public Persona(String nombre, int edad, String dni) {
-    	this.nombre= nombre;
-    	this.diaNacimiento=edad;
-    	this.dni=dni;
-    }
+//    public Persona(String nombre, int edad, String dni) {
+//    	this.nombre= nombre;
+//    	this.diaNacimiento=edad;
+//    	this.dni=dni;
+//    }
     
   
     

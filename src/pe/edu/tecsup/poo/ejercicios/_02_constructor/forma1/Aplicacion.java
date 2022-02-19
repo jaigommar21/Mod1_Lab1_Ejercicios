@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios.constructor.forma1;
+package pe.edu.tecsup.poo.ejercicios._02_constructor.forma1;
 
 public class Aplicacion {
     public static void main(String[] args) {

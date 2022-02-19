@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios.constructor.concepto;
+package pe.edu.tecsup.poo.ejercicios._02_constructor.concepto;
 
 public class Aplicacion {
 	

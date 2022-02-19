@@ -1,4 +1,4 @@
-package pe.edu.tecsup.poo.ejercicios.atributos.adicional;
+package pe.edu.tecsup.poo.ejercicios._01_atributos.adicional;
 
 public class Equipo {
     // atributos
