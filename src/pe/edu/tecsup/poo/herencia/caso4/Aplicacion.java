@@ -26,6 +26,13 @@ public class Aplicacion {
         alumnoExterno.setEdad(23);
         alumnoExterno.imprimirDatos();
 		
+        
+        // Ejercicio : Crear el metodo validar, de modo que 
+        //             Si la edad es menor o igual a 18
+        //             indique que es un estudiante menor de edad
+        //             caso contrario indique que es un estudiante mayor de edad
+        
+        
 	}
 
 }
