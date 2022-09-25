@@ -1,4 +1,4 @@
-package pe.edu.tecsup.sintaxis.ejercicios;
+package pe.edu.tecsup._01.sintaxis.ejercicios;
 
 public class EjerciciosOperadoresBooleanos {
 
