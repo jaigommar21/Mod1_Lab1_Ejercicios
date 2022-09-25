@@ -1,4 +1,4 @@
-package pe.edu.tecsup._01.sintaxis.ejercicios;
+package pe.edu.tecsup._01.sintaxis.revision.ejercicios;
 
 public class EjerciciosOperadorCondicional {
 
