@@ -37,29 +37,35 @@ Crear la clase Ejercicio04_Condicional, donde debe calcular si un trabajador de 
 
 ### Ejercicio 5: 
 
-Crear la clase Ejercicio05_For un contador con for de modo que
+Crear la clase Ejercicio05_While para un contador
 
 - El contador debe decrementar de 20 a 5 de 2 en 2
 - Si el numero es multiplo de 4 debe imprimir , soy multiplo de cuatro
-- Si el numero es multplo de 3 no debe imprimirlo
-- Para los otros casos debe imprimir el numero
 
 ### Ejercicio 6: 
 
-Crear la clase Ejercicio06_Array donde
+Crear la clase Ejercicio06_For un contador con for de modo que
 
-- Crear un arreglo de enteros de tamanho 10
+- El contador debe incrementar de 2 a 50 de 4 en 4
+- Si el numero es multplo de 3 no debe imprimirlo
+- Para los otros casos debe imprimir el numero
+
+
+### Ejercicio 7: 
+
+Crear la clase Ejercicio07_Array donde
+
+- Crear un arreglo de enteros de tamaÃ±o 10
 - Inicializar con el valor -1 a todos los elementos del arreglo
 - Asignar los valores 3,6,9 ,....... a todos los elementos del arreglo
 - Sumar todos los valores del arreglo
 
+### Ejercicio 7:
 
-### Ejercicio 7: 
-
-Los equipos de deportes tienen  la siguiente información , nombre del país, nombre del deporte, cantidad de integrantes y nombre del equipo. Representarlo en una clase adecuada. Usar la clase anterior e instanciarlo desde una aplicación e inicializar la información del equipo
+Los equipos de deportes tienen la siguiente informacion , nombre del paÃ­s, nombre del deporte, cantidad de integrantes y nombre del equipo. Representarlo en una clase adecuada. Usar la clase anterior e instanciarlo desde una aplicaciÃ³n e inicializar la informaciÃ³n del equipo
 
 
-### Ejercicio 8: 
+### Ejercicio 8:
 
 En la clase del ejercicio 7 , crear un constructor para
 todos los atributos y crear los siguiente objetos
@@ -76,7 +82,7 @@ todos los atributos y crear los siguiente objetos
 
 ### Ejercicio 9:
 
-Crear los métodos faltantes
+Crear los mÃ©todos faltantes
 
 
 	public class OperacionesMatematicas {
@@ -105,7 +111,7 @@ Crear los métodos faltantes
 
 ### Ejercicio 10:
 
-En el ejericio 09 , usar métodos no estaticos.
+En el ejericio 09 , usar mÃ©todos no estaticos.
 
 
 ### Ejercicio 11:
