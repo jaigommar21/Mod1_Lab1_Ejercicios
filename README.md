@@ -12,7 +12,7 @@ Crear la clase Ejercicio01_DefinicionVariables, donde definiras las variables
  Imprimir la informacion por consola.
  
  
- ### Ejercicio 2: 
+### Ejercicio 2: 
 Crear la clase Ejercicio02_ConversionYConstantes, donde:
 
  - Definir la variable byte fecha, con el valor del dia de hoy y asignar el valor a otra variable de tipo int
@@ -22,11 +22,11 @@ Crear la clase Ejercicio02_ConversionYConstantes, donde:
  Imprimir la informacion por consola.
  
  
- ### Ejercicio 3: 
+### Ejercicio 3: 
 Crear la clase Ejercicio03_OperadorCondicional, donde: Si una variable x , es menor que 25, el valor a asignar es 25, caso contrario asignar a la variable x su propio valor
 
 
- ### Ejercicio 4: 
+### Ejercicio 4: 
  
 Crear la clase Ejercicio04_Condicional, donde debe calcular si un trabajador de 5ta categoria (en planilla) paga o no paga impuestos, las condiciones son :
 
@@ -60,12 +60,12 @@ Crear la clase Ejercicio07_Array donde
 - Asignar los valores 3,6,9 ,....... a todos los elementos del arreglo
 - Sumar todos los valores del arreglo
 
-### Ejercicio 7:
+### Ejercicio 8:
 
 Los equipos de deportes tienen la siguiente informacion , nombre del país, nombre del deporte, cantidad de integrantes y nombre del equipo. Representarlo en una clase adecuada. Usar la clase anterior e instanciarlo desde una aplicación e inicializar la información del equipo
 
 
-### Ejercicio 8:
+### Ejercicio 9:
 
 En la clase del ejercicio 7 , crear un constructor para
 todos los atributos y crear los siguiente objetos
@@ -80,7 +80,7 @@ todos los atributos y crear los siguiente objetos
 -- nombre del equipo : FPF
 
 
-### Ejercicio 9:
+### Ejercicio 10:
 
 Crear los métodos faltantes
 
@@ -109,12 +109,12 @@ Crear los métodos faltantes
 	}
 
 
-### Ejercicio 10:
+### Ejercicio 11:
 
 En el ejericio 09 , usar métodos no estaticos.
 
 
-### Ejercicio 11:
+### Ejercicio 12:
 
 Crear la clase Proceso, donde se definira 3 metodos ejecutar con
 las siguientes condiciones
@@ -124,6 +124,3 @@ Si se le pasa como argumento un numero debe imprimir , "Se esta configurando el 
 Si no se le pasa ningun argumento, debera imprimir "El proceso se va a ejecutar"
  
 Llamar a la clase Proceso , desde la clase Aplicacion
-
-
-
