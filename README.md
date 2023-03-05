@@ -46,7 +46,7 @@ Crear la clase Ejercicio05_While para un contador
 
 Crear la clase Ejercicio06_For un contador con for de modo que
 
-- El contador debe incrementar de 2 a 50 de 4 en 4
+- El contador debe incrementar de 4 en 4 desde  2 a 50 ( No necesariamente debe imprimirse el 50)
 - Si el numero es multplo de 3 no debe imprimirlo
 - Para los otros casos debe imprimir el numero
 
