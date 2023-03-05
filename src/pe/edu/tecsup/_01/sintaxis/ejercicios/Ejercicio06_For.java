@@ -1,6 +1,6 @@
 package pe.edu.tecsup._01.sintaxis.ejercicios;
 
-public class Ejercicio05_For {
+public class Ejercicio06_For {
 
 	  public static void main(String[] args) {
 		  

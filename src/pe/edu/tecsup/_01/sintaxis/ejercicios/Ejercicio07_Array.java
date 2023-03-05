@@ -6,7 +6,7 @@ package pe.edu.tecsup._01.sintaxis.ejercicios;
  * @author jgomez
  *
  */
-public class Ejercicio06_Array {
+public class Ejercicio07_Array {
 
 	public static void main(String[] args) {
 		
