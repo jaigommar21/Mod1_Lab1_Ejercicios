@@ -67,7 +67,7 @@ Los equipos de deportes tienen la siguiente informacion , nombre del país, nomb
 
 ### Ejercicio 9:
 
-En la clase del ejercicio 7 , crear un constructor para
+En la clase del ejercicio 8 , crear un constructor para
 todos los atributos y crear los siguiente objetos
 
 - Deporte Voley 
