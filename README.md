@@ -39,7 +39,7 @@ Crear la clase Ejercicio04_Condicional, donde debe calcular si un trabajador de 
 
 Crear la clase Ejercicio05_While para un contador
 
-- El contador debe decrementar de 20 a 5 de 2 en 2
+- El contador debe decrementar de 20 a 4 de 2 en 2
 - Si el numero es multiplo de 4 debe imprimir , soy multiplo de cuatro
 
 ### Ejercicio 6: 
