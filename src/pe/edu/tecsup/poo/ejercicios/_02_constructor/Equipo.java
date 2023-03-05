@@ -9,17 +9,18 @@ public class Equipo {
     public String nombre;
     
     
-    public Equipo( int cantIntegrantes, String nombre) {
-
+    public Equipo(String deporte, int cantIntegrantes, String nombre) {
+        this.deporte = deporte;
         this.cantIntegrantes = cantIntegrantes;
         this.nombre = nombre;
     }
 
 
-    
+    @Override
     public String toString() {
-        return "Equipo [cantIntegrantes=" + cantIntegrantes + ", nombre=" + nombre + "]";
+        return "Equipo [deporte=" + deporte + ", cantIntegrantes=" + cantIntegrantes + ", nombre=" + nombre + "]";
     }
+
 
 
     

@@ -5,8 +5,8 @@ public class Aplicacion {
 	public static void main(String[] args) {
 
 		// Defino objetos
-		Equipo equipoVoley = new Equipo(12,"FPV");
-		Equipo equipoFutbol = new Equipo(26, "FPF");
+		Equipo equipoVoley = new Equipo("Voley",12,"FPV");
+		Equipo equipoFutbol = new Equipo("Futbol", 26, "FPF");
 
 		System.out.println(equipoVoley);
 
