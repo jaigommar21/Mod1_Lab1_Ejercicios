@@ -1,5 +1,4 @@
-Crear la clase Auto , que tenga los atributos
-    modelo y nombre
+Crear la clase Auto , que tenga los atributos modelo y nombre
 
 Crear una coleccion de Autos y almacenarlos en un List
     

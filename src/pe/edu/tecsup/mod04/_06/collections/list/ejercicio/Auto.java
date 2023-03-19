@@ -1,4 +1,4 @@
-package pe.edu.tecsup.collections.list;
+package pe.edu.tecsup.mod04._06.collections.list.ejercicio;
 
 
 public class Auto {
