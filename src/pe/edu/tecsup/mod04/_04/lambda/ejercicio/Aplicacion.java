@@ -15,6 +15,8 @@ public class Aplicacion {
         OperacionMatematica om = (op1, op2) -> {
             BigDecimal _op1 = new BigDecimal(op1);
             BigDecimal _op2 = new BigDecimal(op2);
+           
+            System.out.println(_op1.add(_op2));
             
             return _op1.add(_op2).doubleValue();
         };
@@ -25,6 +27,8 @@ public class Aplicacion {
             BigDecimal _op1 = new BigDecimal(op1);
             BigDecimal _op2 = new BigDecimal(op2);
            
+            System.out.println(_op1.subtract(_op2));
+            
             return _op1.subtract(_op2).doubleValue();
         };
         
