@@ -4,38 +4,41 @@ import java.math.BigDecimal;
 
 interface OperacionMatematica {
 
-    double procesar(BigDecimal op1, BigDecimal op2);
+    double procesar(double op1, double op2);
 }
 
 public class Aplicacion {
 
     public static void main(String[] args) {
 
-        // Lambda expresion
+        double _op1 = 1.2, _op2 = 1.4;
+        
+        // first implementation
         OperacionMatematica om = (op1, op2) -> {
            
-            BigDecimal s = op1.add(op2);
+            BigDecimal __op1 = new BigDecimal(String.valueOf(op1));
+            BigDecimal __op2 = new BigDecimal(String.valueOf(op2));
+                    
+            BigDecimal __sum = __op1.add(__op2);
             
-            System.out.println(s);
-            
-            return s.doubleValue();
+            return __sum.doubleValue();
         };
         
-        System.out.println(om.procesar(
-                new BigDecimal("1.2"), 
-                new BigDecimal("1.4")));
+        System.out.println(om.procesar(_op1,_op2));
 
+        
+        // second implementation
         om = (op1, op2) -> {
            
-            System.out.println(op1.subtract(op2));
+            BigDecimal __op1 = new BigDecimal(String.valueOf(op1));
+            BigDecimal __op2 = new BigDecimal(String.valueOf(op2));
+                    
+            BigDecimal __sub = __op1.subtract(__op2);
             
-            return op1.subtract(op2).doubleValue();
+            return __sub.doubleValue();
         };
         
-        System.out.println(om.procesar(
-                new BigDecimal("1.2"), 
-                new BigDecimal("1.4")));
+        System.out.println(om.procesar(_op1,_op2));
 
-        
     }
 }
