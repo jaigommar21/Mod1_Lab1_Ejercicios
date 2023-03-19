@@ -6,7 +6,7 @@ public class Proceso {
     }
     
     public void metodo(String cadena) {
-        System.out.println("El proceso se está deteniendo");
+        System.out.println("El proceso se est deteniendo");
     }
     
     public void metodo(int numero) {

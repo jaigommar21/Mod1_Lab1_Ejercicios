@@ -5,7 +5,7 @@ public class AlumnoInterno extends Alumno {
 	
 	public void accederAtributosHeredados() {
 		
-		// ¿Como accedo a los atributos edad y nombre ?
+		// Como accedo a los atributos edad y nombre ?
 		// Rpta : usando el identificador this.
 		
 		// Desde la clase hijs , solo se accede

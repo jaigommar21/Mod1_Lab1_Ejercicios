@@ -10,7 +10,7 @@ public class Aplicacion {
 		Alumno alumno = new Alumno();
 		
 		// Deseo agregar el nombre y la edad
-		// ¿ Que altenativa tengo?
+		// Que altenativa tengo?
 
 		alumno.setNombre("Jose");
 		alumno.setEdad(26);
